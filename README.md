@@ -1,6 +1,6 @@
 # MiscTweaks
  
-A mod for `Receiver 2`, that lets you tweak killdrone lights (color and intensity of the various states) and alert volume (both beeps and the camera's alarm).
+A mod for Receiver 2, that lets you tweak killdrone lights (color and intensity of the various states) and alert volume (both beeps and the camera's alarm).
 
 ## Install
 
