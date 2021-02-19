@@ -202,7 +202,7 @@ namespace MiscTweaks
                 .Instructions();
         }
 
-        // does seem to work because screw you
+        // does NOT seem to work because screw you
         //[HarmonyTranspiler]
         //[HarmonyPatch(typeof(TurretScript), nameof(TurretScript.Damage))] // turret dmgSFX
         //public static IEnumerable<CodeInstruction> ModDmgSFX(IEnumerable<CodeInstruction> ilCode)
