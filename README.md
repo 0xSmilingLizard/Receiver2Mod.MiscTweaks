@@ -8,3 +8,7 @@ Install [BepInEx](https://github.com/BepInEx/BepInEx) into the Receiver 2 folder
 Then place the MiscTweaks folder in `BepInEx/plugins`.
 
 It is recommended to use [BepInEx's Config Manager](https://github.com/BepInEx/BepInEx.ConfigurationManager) (installed the same way as this mod) to have an in-game UI to make the tweaks.
+
+## Dependencies
+
+The source code depends on `0Harmony.dll`, `BepInEx.dll`, `FMODDef.dll`, `UnityEngine.dll`, `UnityEngine.CoreModule.dll`, and `Wolfire.Receiver2.dll`. It is set up to expect these DLLs to be located in a folder called `libraries` next to the repository folder. All of these DLLs can be found as part of either Receiver 2's or BepInEx's install.
